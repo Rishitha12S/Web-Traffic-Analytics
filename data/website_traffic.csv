@@ -1,0 +1,51 @@
+User_ID,Session_ID,Traffic_Source,Device_Type,Pages_Visited,Session_Duration_Minutes,Bounce,Landing_Page,Exit_Page,Conversion
+U101,S101,Organic Search,Mobile,8,14,No,Home,Checkout,Yes
+U102,S102,Direct,Desktop,3,4,Yes,Landing Page,Home,No
+U103,S103,Email,Tablet,6,10,No,Product Page,Checkout,Yes
+U104,S104,Social Media,Mobile,2,2,Yes,Home,Landing Page,No
+U105,S105,Referral,Desktop,5,7,No,Product Page,Checkout,Yes
+U106,S106,Organic Search,Desktop,7,13,No,Home,Product Page,Yes
+U107,S107,Email,Mobile,4,5,No,Landing Page,Product Page,No
+U108,S108,Direct,Tablet,9,16,No,Home,Checkout,Yes
+U109,S109,Social Media,Desktop,1,1,Yes,Landing Page,Home,No
+U110,S110,Referral,Mobile,3,3,Yes,Home,Landing Page,No
+U111,S111,Organic Search,Desktop,10,18,No,Product Page,Checkout,Yes
+U112,S112,Email,Tablet,5,8,No,Home,Product Page,Yes
+U113,S113,Direct,Mobile,6,11,No,Landing Page,Checkout,Yes
+U114,S114,Social Media,Desktop,2,2,Yes,Home,Home,No
+U115,S115,Referral,Tablet,4,6,No,Product Page,Product Page,No
+U116,S116,Organic Search,Mobile,9,15,No,Home,Checkout,Yes
+U117,S117,Email,Desktop,5,7,No,Landing Page,Checkout,Yes
+U118,S118,Direct,Tablet,7,12,No,Home,Product Page,Yes
+U119,S119,Social Media,Mobile,1,1,Yes,Landing Page,Home,No
+U120,S120,Referral,Desktop,3,4,Yes,Home,Landing Page,No
+U121,S121,Organic Search,Tablet,8,14,No,Product Page,Checkout,Yes
+U122,S122,Email,Mobile,6,9,No,Home,Checkout,Yes
+U123,S123,Direct,Desktop,5,8,No,Landing Page,Product Page,Yes
+U124,S124,Social Media,Tablet,2,3,Yes,Home,Home,No
+U125,S125,Referral,Mobile,4,5,No,Product Page,Checkout,Yes
+U126,S126,Organic Search,Desktop,9,17,No,Home,Checkout,Yes
+U127,S127,Email,Tablet,3,4,Yes,Landing Page,Home,No
+U128,S128,Direct,Mobile,8,13,No,Product Page,Checkout,Yes
+U129,S129,Social Media,Desktop,2,2,Yes,Home,Landing Page,No
+U130,S130,Referral,Tablet,5,7,No,Landing Page,Product Page,Yes
+U131,S131,Organic Search,Mobile,7,12,No,Home,Checkout,Yes
+U132,S132,Email,Desktop,4,6,No,Product Page,Product Page,No
+U133,S133,Direct,Tablet,9,15,No,Landing Page,Checkout,Yes
+U134,S134,Social Media,Mobile,1,1,Yes,Home,Home,No
+U135,S135,Referral,Desktop,6,9,No,Product Page,Checkout,Yes
+U136,S136,Organic Search,Tablet,8,16,No,Landing Page,Checkout,Yes
+U137,S137,Email,Mobile,5,7,No,Home,Product Page,Yes
+U138,S138,Direct,Desktop,7,11,No,Product Page,Checkout,Yes
+U139,S139,Social Media,Tablet,2,2,Yes,Landing Page,Home,No
+U140,S140,Referral,Mobile,4,5,No,Home,Checkout,Yes
+U141,S141,Organic Search,Desktop,10,19,No,Product Page,Checkout,Yes
+U142,S142,Email,Tablet,6,9,No,Landing Page,Product Page,Yes
+U143,S143,Direct,Mobile,8,14,No,Home,Checkout,Yes
+U144,S144,Social Media,Desktop,1,1,Yes,Home,Landing Page,No
+U145,S145,Referral,Tablet,5,6,No,Product Page,Checkout,Yes
+U146,S146,Organic Search,Mobile,9,17,No,Landing Page,Checkout,Yes
+U147,S147,Email,Desktop,4,5,No,Home,Product Page,No
+U148,S148,Direct,Tablet,7,12,No,Product Page,Checkout,Yes
+U149,S149,Social Media,Mobile,2,2,Yes,Landing Page,Home,No
+U150,S150,Referral,Desktop,6,8,No,Home,Checkout,Yes
