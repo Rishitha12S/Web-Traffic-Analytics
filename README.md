@@ -20,7 +20,8 @@ Analyze website traffic data to understand user behavior and engagement patterns
 
 ## Project Structure
 
-  Web-Traffic-Analytics/
+```text
+Web-Traffic-Analytics/
 │
 ├── data/
 │   └── website_traffic.csv
@@ -32,7 +33,8 @@ Analyze website traffic data to understand user behavior and engagement patterns
 │
 ├── requirements.txt
 ├── README.md
-
+└── .gitignore
+```
 
 ## How to Run
 
