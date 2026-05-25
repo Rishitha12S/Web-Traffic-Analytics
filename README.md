@@ -20,7 +20,7 @@ Analyze website traffic data to understand user behavior and engagement patterns
 
 ## Project Structure
 
-Web-Traffic-Analytics/
+  Web-Traffic-Analytics/
 │
 ├── data/
 │   └── website_traffic.csv
