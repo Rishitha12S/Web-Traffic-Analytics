@@ -33,7 +33,7 @@ Web-Traffic-Analytics/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+└
 ```
 
 ## How to Run
@@ -42,7 +42,7 @@ Install required libraries:
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 Run the project:
 
@@ -51,14 +51,9 @@ python src/analysis.py
 ```
 
 ## Output
-
 The project generates:
-
-* Traffic source charts
-* Bounce rate visualization
-* Session duration graphs
-* Exit page analysis
-* User journey insights
-
-```
-```
+- Traffic source charts
+- Bounce rate visualization
+- Session duration graphs
+- Exit page analysis
+- User journey insights
